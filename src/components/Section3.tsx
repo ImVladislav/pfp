@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-import TradingViewWidget from "./Chart";
+// import TradingViewWidget from "./Chart2";
 
 const Section3 = () => {
   return (
