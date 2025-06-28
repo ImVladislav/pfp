@@ -42,7 +42,7 @@ const Section2 = () => {
       </Box>
       <Box
         component='a'
-        href='https://x.com/PumpPlushies'
+        href='https://x.com/Pump_Plushies'
         sx={{
           img: {
             transition: "0.5s",
@@ -107,7 +107,7 @@ const Section2 = () => {
       />
       <Box
         component='a'
-        href='https://t.me/PumpPlushie'
+        href='https://t.me/PumpPlushies'
         sx={{
           img: {
             transition: "0.5s",
