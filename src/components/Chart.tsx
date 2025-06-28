@@ -1,7 +1,6 @@
 import { useEffect, useRef } from "react";
 
 const TradingViewWidget = ({
-  symbol = "BINANCE:BTCUSDT",
   width = "100%",
   height = 500,
 }) => {
