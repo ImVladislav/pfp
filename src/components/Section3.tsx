@@ -51,7 +51,7 @@ const Section3 = () => {
               fontWeight: 400,
             }}
           >
-            CA: 5DkLaee4Ctm9v8bka1zGeuPUTbngZaznZsc1t3L4pump
+            CA: 7SiUnuZbN8pwu4H5q3KbD644VHjrGra6oGgr8ZCxpump
           </Typography>
         </Box>
         <Box
