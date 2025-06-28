@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-// import TradingViewWidget from "./Chart2";
+import TradingViewWidget from "./Chart2";
 
 const Section3 = () => {
   return (
@@ -13,7 +13,7 @@ const Section3 = () => {
           transform: "translateX(-50%)",
         }}
       >
-        {/* <Box
+        <Box
           sx={{
             backgroundColor: "rgba(0, 0, 0, 0.2)",
             width: "100%",
@@ -23,7 +23,7 @@ const Section3 = () => {
           }}
         >
           <TradingViewWidget />
-        </Box> */}
+        </Box>
         <Box
           sx={{
             my: 3,
